@@ -1,0 +1,23 @@
+{
+  "name":"",
+  "isbn":"",
+  "highlight":"",
+  "priority":"",
+  "authors":[
+    {
+      "author1":"author1"
+    },
+    {
+      "author2":"author2"
+    },
+    {
+      "author3":"author2"
+    }
+  ],
+  "comments":[],
+  "usage":[],
+  "category":[],
+  "status":[],
+  "tags":[],
+  "trivials":[]
+}
